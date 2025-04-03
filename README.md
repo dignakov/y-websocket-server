@@ -22,7 +22,7 @@ This repository implements a basic server that you can adopt to your specific us
 Start a y-websocket server:
 
 ```sh
-HOST=localhost PORT=1234 npx y-websocket
+HOST=localhost PORT=1234 npx @y/websocket-server
 ```
 
 ### Client Code:
